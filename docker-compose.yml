@@ -9,7 +9,7 @@ services:
       API_ID: 26311402# Your API HASH from my.telegram.org
       API_HASH: 012450e57d2bc98d0693c6982d01a2d7
 # Your API ID from my.telegram.org
-      BOT_TOKEN: # Bot token, get it from @BotFather 
+      BOT_TOKEN:6726180531:AAGb6Y3Hj7J7Y9PKMkoISgYBm5LQF9oeEuY # Bot token, get it from @BotFather 
       SESSION: # Pyrogram string session
       AUTH: # User ID of Bot owner
       FORCESUB: # Username name of public channel without using '@'
