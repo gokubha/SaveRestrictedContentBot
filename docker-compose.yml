@@ -6,10 +6,10 @@ services:
     build: .
     command: bash bash.sh
     environment:
-      API_ID: 26311402# Your API HASH from my.telegram.org
+      API_ID: 26311402
       API_HASH: 012450e57d2bc98d0693c6982d01a2d7
 # Your API ID from my.telegram.org
       BOT_TOKEN:6726180531:AAGb6Y3Hj7J7Y9PKMkoISgYBm5LQF9oeEuY # Bot token, get it from @BotFather 
-      SESSION: # Pyrogram string session
-      AUTH: # User ID of Bot owner
-      FORCESUB: # Username name of public channel without using '@'
+      SESSION: 1BQANOTEuMTA4LjU2LjEyMAG7udPFNRXG8yl3HHEfEUsfw4sZEepu/klrK2B5Dy2aXyeCTFOIaI+MpV4fv6i/nE3xOpWp7KRv8Ys7dTrFGSgFgpRJVb/k8PnGIUPRBOmlfpJHA5arJVM85x6vmqFE3LYiIPdAOtkrlFWVI3JFTn167rtoMpU4HVqkANE18ko0cqa5LhrpPCGmE2HFCpJc6NLT86MGss+W3heE4RcrApb8a9u6nu7wzWbd49BYbnkuZgo0xv23uaLRLtivz/ARj+aZ6J1BQmsI6H8i8/l7khudmQggVTiwsLoyhlc+Vxqi4VmhAuqnq3t64AgH6AM1CVdkJFZrL4zCxp7S2sIr2F4c/w==
+      AUTH: 5832887847
+      FORCESUB: gokathee
